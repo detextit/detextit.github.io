@@ -1,18 +1,15 @@
-# Detextit: Accelerating Design Workflows with Reliable AI Agents
+# Detextit 
 
-Welcome to Detextit, where we're revolutionizing design processes through cutting-edge AI technology.
+Building reliable AI agents to accelerate design workflows.
 
-## Our Mission
 
-At Detextit, we're on a mission to empower designers and creative professionals by building AI agents that streamline and accelerate design workflows. We believe that by automating and enhancing creative capabilities, we can unlock unprecedented levels of productivity and innovation in the design industry.
+> We're on a mission to empower designers and creative professionals. Our agents streamline your process so that you can unlock unprecedented levels of productivity and innovation. 
 
-## Join the Design Revolution
+### Join the Revolution
 
-Are you ready to transform your design workflow? Stay tuned for updates on our upcoming products and beta testing opportunities.
+Stay tuned for updates on our upcoming products and beta testing opportunities.
 
-## Contact Us
-
-- Email: info@detextit.com
+Contact us at [info@detextit.com](mailto:info@detextit.com)
 
 ---
 
